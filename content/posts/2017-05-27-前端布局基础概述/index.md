@@ -20,7 +20,7 @@ tags:
 
 一个 Web 页面是由众多 html 元素组成的，每个 html 元素都会被解析成一个矩形盒，如下图所示：
 
-![](http://p3ek8rd7p.bkt.clouddn.com/2018-04-04-014137.png)
+![img](2018-04-04-014137-20181121172030137.png)
 
 ### box-sizing (CSS3属性)
 
@@ -115,8 +115,4 @@ BFC, 全称是block formatting context，它是一个独立封闭的渲染区域
 
 line box的模型结构，形如七线谱，其中有六条重要的线：top线、text-top线、middle线、baseline线、text-bottom线和bottom线，如下图所示：
 
-![](http://p3ek8rd7p.bkt.clouddn.com/2018-04-04-065235.jpg)
 
-## 参考链接
-
-> [https://juejin.im/entry/5ab9bd86f265da23953100c3#comment]()

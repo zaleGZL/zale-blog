@@ -2,3 +2,7 @@
 
 @import './bulma.scss';
 @import './markdown.scss';
+
+body {
+    overflow-x: hidden;
+}

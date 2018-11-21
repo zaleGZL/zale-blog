@@ -1,0 +1,34 @@
+.my-post-container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+  zoom: 1;
+  padding: 40px 15px 30px 15px;
+}
+
+.my-post-title {
+  margin: 0 0 10px 0 !important;
+}
+
+.my-post-time {
+  margin: 5px 10px 5px 0;
+}
+
+.my-post-tags {
+  margin: 5px 10px 0 0;
+}
+
+.my-pagination {
+  margin: 40px 0 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.my-pagination-left,
+.my-pagination-right {
+  flex: 0 0 auto;
+  margin-bottom: 10px;
+}

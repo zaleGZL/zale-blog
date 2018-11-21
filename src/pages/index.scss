@@ -1,0 +1,29 @@
+.my-home-content-container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+  zoom: 1;
+  padding: 40px 15px 30px 15px;
+}
+
+.my-blog-list-item {
+  margin: 0 0 30px 0;
+}
+
+.my-blog-list-title {
+  margin: 0 0 5px 0 !important;
+}
+
+.my-post-time {
+  margin: 5px 10px 5px 0;
+}
+
+.my-blog-list-link:hover {
+  color: #3273dc !important;
+  border-bottom: 1px solid;
+}
+
+.my-post-tags {
+  margin: 5px 10px 0 0;
+}

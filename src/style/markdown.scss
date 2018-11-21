@@ -1,0 +1,35 @@
+@import '../../node_modules/prismjs/themes/prism-coy.css'; // 语法高亮 CSS
+
+// FIXME: bulma 样式冲突临时解决方法
+.content .tag,
+.content .number {
+  display: inline;
+  padding: initial;
+  font-size: inherit;
+  line-height: inherit;
+  text-align: inherit;
+  vertical-align: inherit;
+  border-radius: inherit;
+  font-weight: inherit;
+  white-space: inherit;
+  background: inherit;
+  margin: inherit;
+  align-items: inherit;
+  background-color: initial;
+  margin: initial;
+  min-width: initial;
+}
+
+// 代码块样式修改
+.content pre {
+  padding: 0.25em;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  font-weight: 400;
+}
